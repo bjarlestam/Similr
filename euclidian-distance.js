@@ -3,7 +3,7 @@ exports.calculate = function(from, to, titles) {
   for(variable in titles[from]) {
     if(titles[to][variable]) {
       var distance = titles[from][variable] - titles[to][variable];
-      sum_of_squares += (distance * distance);
+      sum_of_squares += Math.pow(distance, 2);
     }
   }
 
