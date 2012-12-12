@@ -1,0 +1,55 @@
+europas_extremister:
+  nytankande: 1
+  akta: 5
+  objektiva: 9
+  trovardiga: 9
+  traditionella: 7
+  narvarande: 6
+  mansklig: 5
+  personliga: 3
+  underhallande: 2
+  moderna: 4
+hubinette:
+  nytankande: 7 
+  akta: 6
+  objektiva: 8
+  trovardiga: 7
+  traditionella: 3
+  narvarande: 7
+  mansklig: 9
+  personliga: 6
+  underhallande: 7
+  moderna: 6
+aktuellt:
+  nytankande: 4
+  akta: 7
+  objektiva: 9
+  trovardiga: 9
+  traditionella: 5
+  narvarande: 6
+  mansklig: 5
+  personliga: 4
+  underhallande: 4
+  moderna: 6
+ana_gina_show:
+  nytankande: 8
+  akta: 7
+  objektiva: 5
+  trovardiga: 5
+  traditionella: 3
+  narvarande: 6
+  mansklig: 5
+  personliga: 8
+  underhallande: 9
+  moderna: 8
+rapport:
+  nytankande: 4
+  akta: 7
+  objektiva: 9
+  trovardiga: 9
+  traditionella: 5
+  narvarande: 6
+  mansklig: 5
+  personliga: 4
+  underhallande: 3
+  moderna: 6

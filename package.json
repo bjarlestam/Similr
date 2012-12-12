@@ -1,0 +1,11 @@
+{
+    "name": "similr"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.5.1"
+    , "stylus": ">= 0.0.1"
+    , "jade": ">= 0.0.1"
+    , "js-yaml": "1.x" 
+}
+}
