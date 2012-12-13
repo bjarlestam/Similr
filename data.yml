@@ -1,4 +1,4 @@
-dokument_utifran_europas_extremister:
+dokument-utifran:
   moderna: 4.44444444444444
   mansklig: 5.44444444444444
   nytankande: 4.11111111111111
@@ -20,7 +20,7 @@ hubinette:
   trovardiga: 5.11111111111111
   underhallande: 3.66666666666667
   akta: 5.44444444444444
-dox_paradise_lost:
+dox:
   moderna: 6.55555555555556
   mansklig: 7.88888888888889
   nytankande: 5.88888888888889
@@ -31,7 +31,7 @@ dox_paradise_lost:
   trovardiga: 6.77777777777778
   underhallande: 4.33333333333333
   akta: 7.66666666666667
-veckans_brott:
+veckans-brott:
   moderna: 4.22222222222222
   mansklig: 5.33333333333333
   nytankande: 4.66666666666667
@@ -42,7 +42,7 @@ veckans_brott:
   trovardiga: 6.88888888888889
   underhallande: 5.66666666666667
   akta: 6.66666666666667
-svenska_handelser:
+svenska-handelser:
   moderna: 3.77777777777778
   mansklig: 5.88888888888889
   nytankande: 3.33333333333333
@@ -64,7 +64,7 @@ fashion:
   trovardiga: 5.55555555555556
   underhallande: 6.33333333333333
   akta: 3.88888888888889
-vem_vet_mest:
+vem-vet-mest:
   moderna: 2.77777777777778
   mansklig: 3.66666666666667
   nytankande: 2.11111111111111
@@ -75,7 +75,7 @@ vem_vet_mest:
   trovardiga: 5.66666666666667
   underhallande: 5.44444444444444
   akta: 4.44444444444444
-go_kvall:
+gokvall:
   moderna: 3.33333333333333
   mansklig: 5.55555555555556
   nytankande: 2.33333333333333
@@ -97,7 +97,7 @@ bastian:
   trovardiga: 5.66666666666667
   underhallande: 4.66666666666667
   akta: 7.77777777777778
-15_kille_i_andra_hand:
+15--det-ar-mitt-liv:
   moderna: 5.55555555555556
   mansklig: 6.66666666666667
   nytankande: 5.22222222222222
