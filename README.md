@@ -13,24 +13,22 @@ Query parameters:
   use: the algorithm to use (pearson or euclidean), default is pearson
 
 ##Listing similar items##
-  [http://localhost:1337/similar/{item}]
+  [http://localhost:1337/similar/{item}](http://localhost:1337/similar/{item})
 Will return a list of the most similar items
 Query parameters:
   max: the number of items returned, default is 4
   use: the algorithm to use (pearson or euclidean), default is pearson
 
-hello
 
 
-Getting started
----------------
+
+##Getting started##
 Its a simple node + express application. Just run:
   npm install
   node app.js
 
 
-Getting data into the system
-----------------------------
+##Getting data into the system##
 The input data is currently taken from a yml file (data.yml) containing all the items and their properties.
 I might extend this to support reading data from a database or whatever in the future.
 
