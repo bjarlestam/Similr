@@ -24,8 +24,8 @@ Query parameters:
 
 ##Getting started##
 Its a simple node + express application. Just run:
-  npm install
-  node app.js
+'  npm install'
+'  node app.js'
 
 
 ##Getting data into the system##
