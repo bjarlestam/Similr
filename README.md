@@ -3,15 +3,16 @@ Similr
 
 A really simple recommendation engine.
 
-It can calculate the similarity distance between different items based on how they are ranked on a set of properties.
-It can also list similar items based on the similarity distance.
-
+It can calculate the similarity of different items based on how they are ranked on a set of properties.
+It can also list similar items.
 
 
 Similarity distance
 -------------------
 http://localhost:1337/distance/{item1}/{item2}
-Will return a number between 0 and 1 representing how similar they are where 1 means that they totally equal.
+Will return a number representing how similar they are. Higher number means more similar.
+Query parameters:
+use: the algorithm to use (pearson or euclidean), default is pearson
 
 Listing similar items
 ---------------------
@@ -22,4 +23,16 @@ max: the number of items returned, default is 4
 use: the algorithm to use (pearson or euclidean), default is pearson
 
 
+
+Getting started
+---------------
+Its a simple node + express application. Just run:
+npm install
+node app.js
+
+
+Getting data into the system
+----------------------------
+The input data is currently taken from a yml file (data.yml) containing all the items and their properties.
+I might extend this to support reading data from a database or whatever in the future.
 
