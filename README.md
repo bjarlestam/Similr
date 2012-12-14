@@ -10,24 +10,25 @@ It can also list similar items.
   [http://localhost:1337/distance/{item1}/{item2}](http://localhost:1337/distance/{item1}/{item2})
 
 Will return a number representing how similar they are. Higher number means more similar.
+
 Query parameters:
-  use: the algorithm to use (pearson or euclidean), default is pearson
+-use: the algorithm to use (pearson or euclidean), default is pearson
 
 ##Listing similar items##
   [http://localhost:1337/similar/{item}](http://localhost:1337/similar/{item})
 
 Will return a list of the most similar items
+
 Query parameters:
-`
-max: the number of items returned, default is 4
-use: the algorithm to use (pearson or euclidean), default is pearson
-`
+-max: the number of items returned, default is 4
+-use: the algorithm to use (pearson or euclidean), default is pearson
+
 
 
 
 ##Getting started##
 Its a simple node + express application. Just run:
-ÂÂ```  
+```  
 npm install
 node app.js
 ```
